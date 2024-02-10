@@ -54,10 +54,6 @@ $ git clone https://github.com/MartinsPereira/NLW-Expert-React.git
 ```
 
 ```bash
-# Frontend
-
-# Ir até o repositório
-$ cd /nlw-expert-notes
 
 # Instalando as dependências
 $ npm i
