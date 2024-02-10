@@ -86,6 +86,7 @@ export function NewNoteCard({ onNoteCreated }: NewNoteProps) {
 
   function handleOpenChange(open: boolean) {
     if (!open) {
+      handleStopRecording();
       setShouldShowOnboarding(true);
       setContent("");
     }
