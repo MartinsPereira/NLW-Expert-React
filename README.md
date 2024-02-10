@@ -50,7 +50,7 @@ Para clonar e executar está aplicação, você precisará do [Git](https://git-
 
 ```bash
 # Clonando o repositório
-$ git clone https://github.com/lamendes/nlw-ia.git nlw-ia
+$ git clone https://github.com/MartinsPereira/NLW-Expert-React.git
 ```
 
 ```bash
@@ -78,8 +78,8 @@ by [**Martins Pereira**](https://www.linkedin.com/in/martins-pereira-528134199/)
 [npm]: https://www.npmjs.com/
 [ViteJS]: https://vitejs.dev/
 [Tailwind]: https://tailwindcss.com/
-[Radix]: radix-ui.com
-[Sonner]: radix-ui.com
+[Radix]: https://radix-ui.com
+[Sonner]:https://sonner.emilkowal.ski/
 [shadcn/ui]: https://sonner.emilkowal.ski/
 [Lucide]: https://lucide.dev/
 [vc]: https://code.visualstudio.com/
