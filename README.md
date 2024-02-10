@@ -13,7 +13,7 @@ Permite incluir notas por texto ou por transcrição de áudio. Utiliza a API __
 
 ### 🚀 Tecnologias
 
-- [TypeScriot][typescript]
+- [TypeScript][typescript]
 - [VS Code][vc]
 - [Vite][ViteJS]
 - [Lucide][Lucide]
